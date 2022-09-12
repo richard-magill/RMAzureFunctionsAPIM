@@ -1,1 +1,1 @@
-Azure functions including HTTP Trigger with Open APi to make a nice REST API with Swagger interface. 
+Azure functions including HTTP Trigger with Open API to make a nice REST API with Swagger interface. 
